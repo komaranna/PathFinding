@@ -3,7 +3,9 @@
 Finding length of shortest path between top left and bottom right corner of a maze, using physical intuition of wave propagation (essentially breadth-first search). We are allowed to take out exactly one wall.
 
 The input maze needs to be a matrix of 0's and 1's where 0 is free space and 1 is a wall.
+
 E.g. maze = [[0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0], [0, 1, 1, 1, 1, 1], [0, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0]]
+
 corresponds to the following 6-by-6 maze:
 
 000000
